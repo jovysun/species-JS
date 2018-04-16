@@ -13,4 +13,4 @@
 ## 学习引导
 1. 入口文件index.html和index.js；
 2. 主要业务代码在main.js中，data.js是species网站的设计图形数据；
-3. 详细的见博文[xxx]()。
+3. 详细的见博文[species-in-pieces网站动效的JS实现](https://jovysun.github.io/2018/04/11/species/)。
