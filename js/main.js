@@ -8,7 +8,7 @@ import { TweenMax, TweenLite, TimelineMax } from 'gsap'
 // NodeList转换Array
 function NodeList2Array(nodelist) {
     let arr = [];
-    if (nodelist.length) {
+    if (nodelist.length > 0) {
         arr = Array.prototype.slice.call(nodelist, 0);
     }
     return arr;
@@ -231,5 +231,5 @@ goBtn.addEventListener('click', playHandler, false);
 
 
 export default () => {
-    // console.log(classes.main);
+
 };
