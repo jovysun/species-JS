@@ -1,7 +1,7 @@
 # species-JS
 > 关键词：svg   GSAP    JS动画
 ## 出发点
-看着[species-in-pieces网站](http://species-in-pieces.com/)做的动物图案动效挺好的，可是用的是css3的-webkit-clip-path实现的，兼容不太好，就想着用js动画库[GSAP](https://greensock.com/)实现下，当然各种动画细节等还需进一步完善，主要目的是作为学习JS实现SVG动画。
+看着[species-in-pieces网站](http://species-in-pieces.com/)做的动物图案动效挺好的，可是用的是css3的-webkit-clip-path实现的，兼容不太好，就想着用js动画库[GSAP](https://greensock.com/)实现下，当然各种动画细节等还需进一步完善，主要目的是作为学习JS实现SVG动画。具体介绍见[博文](https://jovysun.github.io/2019/03/06/species-js/)。
 
 ## 效果图如下：
 ![效果图](1.gif)
